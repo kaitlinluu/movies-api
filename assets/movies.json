@@ -1,0 +1,142 @@
+[
+  {
+    "Position":1,
+    "Title":"Captain America: Civil War",
+    "IMDb Rating":7.8,
+    "MPAA Rating":"PG-13",
+    "Genres":"Action, Sci-Fi"
+  },
+  {
+    "Position":2,
+    "Title":"Rogue One: A Star Wars Story",
+    "IMDb Rating":7.8,
+    "MPAA Rating":"PG-13",
+    "Genres":"Action, Adventure, Sci-Fi"
+  },
+  {
+    "Position":3,
+    "Title":"Finding Dory",
+    "IMDb Rating":7.2,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Adventure, Comedy, Family, Fantasy, Mystery"
+  },
+  {
+    "Position":4,
+    "Title":"Zootopia",
+    "IMDb Rating":8.0,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Action, Adventure, Comedy, Crime, Family, Mystery"
+  },
+  {
+    "Position":5,
+    "Title":"The Jungle Book",
+    "IMDb Rating":7.3,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Action, Adventure, Drama, Family, Fantasy, Musical"
+  },
+  {
+    "Position":6,
+    "Title":"The Secret Life of Pets",
+    "IMDb Rating":6.5,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Adventure, Comedy, Family"
+  },
+  {
+    "Position":7,
+    "Title":"Batman v Superman: Dawn of Justice",
+    "IMDb Rating":6.4,
+    "MPAA Rating":"R",
+    "Genres":"Action, Adventure, Sci-Fi"
+  },
+  {
+    "Position":8,
+    "Title":"Fantastic Beasts and Where to Find Them",
+    "IMDb Rating":7.2,
+    "MPAA Rating":"PG-13",
+    "Genres":"Adventure, Family, Fantasy"
+  },
+  {
+    "Position":9,
+    "Title":"Deadpool",
+    "IMDb Rating":8.0,
+    "MPAA Rating":"R",
+    "Genres":"Action, Comedy, Sci-Fi"
+  },
+  {
+    "Position":10,
+    "Title":"Suicide Squad",
+    "IMDb Rating":5.9,
+    "MPAA Rating":"PG-13",
+    "Genres":"Action, Adventure, Fantasy, Sci-Fi"
+  },
+  {
+    "Position":11,
+    "Title":"Doctor Strange",
+    "IMDb Rating":7.5,
+    "MPAA Rating":"PG-13",
+    "Genres":"Action, Adventure, Fantasy, Sci-Fi"
+  },
+  {
+    "Position":12,
+    "Title":"Moana",
+    "IMDb Rating":7.6,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Adventure, Comedy, Family, Fantasy, Musical"
+  },
+  {
+    "Position":13,
+    "Title":"Sing",
+    "IMDb Rating":7.1,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Comedy, Family, Musical"
+  },
+  {
+    "Position":14,
+    "Title":"The Mermaid",
+    "IMDb Rating":6.2,
+    "MPAA Rating":"R",
+    "Genres":"Comedy, Drama, Fantasy, Romance"
+  },
+  {
+    "Position":15,
+    "Title":"X-Men: Apocalypse",
+    "IMDb Rating":6.8,
+    "MPAA Rating":"PG-13",
+    "Genres":"Action, Adventure, Sci-Fi"
+  },
+  {
+    "Position":16,
+    "Title":"Kung Fu Panda 3",
+    "IMDb Rating":7.1,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Action, Adventure, Comedy, Family, Fantasy"
+  },
+  {
+    "Position":17,
+    "Title":"La La Land",
+    "IMDb Rating":8.0,
+    "MPAA Rating":"PG-13",
+    "Genres":"Comedy, Drama, Music, Musical, Romance"
+  },
+  {
+    "Position":18,
+    "Title":"Warcraft",
+    "IMDb Rating":6.7,
+    "MPAA Rating":"PG-13",
+    "Genres":"Action, Adventure, Fantasy"
+  },
+  {
+    "Position":19,
+    "Title":"Jason Bourne",
+    "IMDb Rating":6.6,
+    "MPAA Rating":"PG-13",
+    "Genres":"Action, Thriller"
+  },
+  {
+    "Position":20,
+    "Title":"Ice Age: Collision Course",
+    "IMDb Rating":5.7,
+    "MPAA Rating":"PG",
+    "Genres":"Animation, Adventure, Comedy, Family, Sci-Fi"
+  }
+]

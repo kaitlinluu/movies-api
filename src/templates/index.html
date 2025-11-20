@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Highest-Grossing Movies of 2016</title>
+  <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Fira+Mono:wght@400;500&family=Cousine:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <h1 class="title">🎬 Highest-Grossing Movies of 2016 🎬</h1>
+
+  <div class="filters">
+    <input id="searchTitle" placeholder="Search by title...">
+    <select id="genreSelect">
+      <option value="">All Genres</option>
+      <option value="Action">Action</option>
+      <option value="Adventure">Adventure</option>
+      <option value="Comedy">Comedy</option>
+      <option value="Drama">Drama</option>
+      <option value="Family">Family</option>
+      <option value="Fantasy">Fantasy</option>
+      <option value="Sci-Fi">Sci-Fi</option>
+    </select>
+    <select id="ratingSelect">
+      <option value="">All IMDB Ratings</option>
+      <option value="8">8+ stars</option>
+      <option value="7">7+ stars</option>
+      <option value="6">6+ stars</option>
+    </select>
+    <select id="mpaaSelect">
+      <option value="">All MPAA Ratings</option>
+      <option value="PG">PG</option>
+      <option value="PG-13">PG-13</option>
+      <option value="R">R</option>
+    </select>
+    <button id="searchBtn">Search</button>
+  </div>
+
+  <div id="results"></div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
