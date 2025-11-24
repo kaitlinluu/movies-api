@@ -12,7 +12,7 @@
 
 <img src="https://image2url.com/images/1763953344612-8e6e3ace-779d-4e17-abd4-e48963a3c275.png" width="700" />
 
-**Data/Models/Services**: The Flask Web Service is used to serve the API. My dataset was manually curated from a publicly available IMDb web page and its attached CSV file. The file is JSON and is 4 KB. The data was collected for educational use under Fair Use guidelines. 
+**Data/Models/Services**: The Flask Web Service is used to serve the API. My dataset was manually curated and sourced from a publicly available IMDb web page and its attached CSV file: [link to dataset](https://www.imdb.com/list/ls031261985/). The file is JSON and is 4 KB. The data was collected for educational use under Fair Use guidelines. 
 
 ## **3) How to Run (Local)**
 **Docker**: 
