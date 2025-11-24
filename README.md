@@ -39,3 +39,6 @@ In terms of performance, the API successfully serves and filters the JSON movie 
 
 ## **6) What's Next**
 Future improvements and refactors could involve creating more filtering and search options, expanding the dataset, or having multiple datasets from different years. This would allow for deeper analyses and comparisons to be made. Additional stretch features could include allowing users to create accounts or bookmark movie collections.
+
+## **7) Links**
+[GitHub Repo](https://github.com/kaitlinluu/movies-api)
